@@ -73,7 +73,7 @@
     <junit.jupiter.api.version>5.8.2</junit.jupiter.api.version>
     <kerby.version>2.0.2</kerby.version>
     <ldapsdk.version>4.1</ldapsdk.version>
-    <logback.version>1.2.11</logback.version>
+    <logback.version>1.3.12</logback.version>
     <maven.version>3.8.6</maven.version>
     <mina.core.version>2.1.6</mina.core.version>
     <org.apache.felix.version>7.0.5</org.apache.felix.version>
